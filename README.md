@@ -11,7 +11,7 @@ I'm a passionate developer focused on building efficient, user-friendly, and sca
 ![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shishir-Kc&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-- [Portfolio](https://shishirkhatri.com.np) *(optional)*
+- [Portfolio](https://shishirkhatri.com.np) 
 
 ---
 
