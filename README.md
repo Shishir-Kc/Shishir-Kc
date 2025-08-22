@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Shishir KC
+# 👋 Ayee SUP ! , I'm Shishir KC
 
-I'm a passionate developer focused on building efficient, user-friendly, and scalable applications.
+I'm a developer focused on building efficient, user-friendly, and scalable applications.
 
 ## 🚀 Tech Stack
 - Languages: Python, JavaScript, 
