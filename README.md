@@ -8,6 +8,6 @@ I'm a developer focused on building efficient, user-friendly, and scalable appli
 - Database: Postgresql{SupaBase}, 
 - Tools: Git, Docker, VS Code
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir-Kc&layout=compact&theme=tokyonight)
+
 
 
