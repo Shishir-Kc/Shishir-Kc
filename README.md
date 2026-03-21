@@ -45,7 +45,7 @@ Currently working on a custom Arch-based OS, a daily news platform, and AI tools
 |--------|-------------|-------|
 | [**Aris**](https://github.com/Shishir-Kc/Aris) | Prototype OS built on Arch Linux | Shell |
 | [**Vox Diurna**](https://vox-diurna.pages.dev/) | Daily news & writing platform | Web |
-| [**Payment Integration in Django**](https://github.com/Shishir-Kc/django-khalti-integration) | Documentation for integrating Khalti with Django | Python |
+| [**Payment Integration in Django**](https://shishir-kc.github.io/django-khalti-integration/) | Documentation for integrating Khalti with Django | Python |
 | [**Sky**](https://github.com/Shishir-Kc/sky) | AI helper assistant | HTML/JS |
 
 ---
