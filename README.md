@@ -25,7 +25,7 @@ Currently working on a custom Arch-based OS, a daily news platform, and AI tools
 
 ---
 
-### 🛠️Tech stack
+### Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -45,7 +45,7 @@ Currently working on a custom Arch-based OS, a daily news platform, and AI tools
 |--------|-------------|-------|
 | [**Aris**](https://github.com/Shishir-Kc/Aris) | Prototype OS built on Arch Linux | Shell |
 | [**Vox Diurna**](https://vox-diurna.pages.dev/) | Daily news & writing platform | Web |
-| [**Centralized Result Publishing System**](https://github.com/Shishir-Kc/Centralized-Result-Publishing-System-) | Centralized academic result system | Python |
+| [**Payment Integration in Django**](https://github.com/Shishir-Kc/django-khalti-integration) | Documentation for integrating Khalti with Django | Python |
 | [**Sky**](https://github.com/Shishir-Kc/sky) | AI helper assistant | HTML/JS |
 
 ---
