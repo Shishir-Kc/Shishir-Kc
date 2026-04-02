@@ -50,14 +50,6 @@ Currently working on a custom Arch-based OS, a daily news platform, and AI tools
 
 ---
 
-###  GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shishir-Kc&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir-Kc&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shishir-Kc&style=flat-square&color=blue" alt="profile views"/>
