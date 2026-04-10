@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://shishirkhatri.com.np">Portfolio</a> •
-  <a href="https://vox-diurna.pages.dev/">Vox Diurna</a> •
+  <a href="https://blog.shishirkhatri.com.np/">Vox Diurna</a> •
   <a href="https://www.linkedin.com/in/shishir-khatri-3bb3b1376/">LinkedIn</a>
 </p>
 
