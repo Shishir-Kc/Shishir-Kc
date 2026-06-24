@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Shishir KC</h1>
 <p align="center">
-  <em>Building things from scratch — AI tools, startups, and CLI experiments</em>
+  <em>Building things from scratch  AI tools, startups, and CLI experiments</em>
 </p>
 <p align="center">
   <a href="https://shishirkhatri.com.np">Portfolio</a> •
@@ -14,8 +14,8 @@
 
 Self-taught developer from Nepal. I build ambitious things from scratch — AI agents, EdTech products, and whatever else seems interesting.
 
-- Co-founder & CEO of **Arcademia** — hobby-based personalized learning powered by AI
-- Building **Elysium** — a personal AI agent and CLI tool
+- Co-founder & CEO of **Arcademia**  hobby-based personalized learning powered by AI
+- Building **Elysium** a personal AI agent and CLI tool
 - Running two Fiverr gigs: web scraping and custom Claude API integrations
 - Arch Linux daily driver (Hyprland + Neovim)
 
