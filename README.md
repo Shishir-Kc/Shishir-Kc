@@ -19,7 +19,6 @@ Self-taught developer from Nepal. I build ambitious things from scratch — AI a
 
 - Co-founder & CEO of **Arcademia** — hobby-based personalized learning powered by AI
 - Building **Elysium** — a personal AI agent and CLI tool
-- Running two Fiverr gigs: web scraping and custom Claude API integrations
 - Arch Linux daily driver (Hyprland + Neovim)
 
 ---
