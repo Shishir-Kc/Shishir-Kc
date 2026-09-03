@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hey, I'm Shishir KC</h1>
-<p align="center">Building things from scratch — AI tools, startups, and CLI experiments</p>
+<p align="center">Building things from scratch AI tools, startups, and CLI experiments</p>
 
 <p align="center">
   <a href="https://shishirkhatri.com.np">Portfolio</a> •
