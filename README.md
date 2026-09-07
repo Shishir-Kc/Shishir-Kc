@@ -44,7 +44,7 @@ Self-taught developer from Nepal. I build ambitious things from scratch — AI a
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**Arcademia**](https://arcademia.app) | AI-powered EdTech — personalized learning through hobbies | Hono + Bun + FastAPI |
-| [**Elysium**](https://github.com/Shishir-Kc/Elysium) | Personal AI agent and CLI tool | Python |
+| [**Aria**](https://github.com/Shishir-Kc/Elysium) | Personal AI agent and CLI tool | Python |
 | [**Aris**](https://github.com/Shishir-Kc/Aris) | Prototype OS built on Arch Linux | Shell |
 | [**Vox Diurna**](https://vox-diurna.pages.dev/) | Daily news & writing platform | Web |
 | [**Django-Khalti Integration**](https://shishir-kc.github.io/django-khalti-integration/) | Payment integration docs for Django + Khalti | Python |
