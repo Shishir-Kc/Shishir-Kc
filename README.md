@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shishir-Kc/Shishir-Kc/refs/heads/main/sup.png" alt="Shishir KC banner" width="100%" />
-</div>
-
-<h1 align="center">Hey, I'm Shishir KC</h1>
+<h1 align="center">Hey, I'm Shishir KC</h1
 <p align="center">Building things from scratch AI tools, startups, and CLI experiments</p>
 
 <p align="center">
