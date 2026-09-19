@@ -13,7 +13,7 @@
 
 Self-taught developer from Nepal. I build ambitious things from scratch — AI agents, EdTech products, and whatever else seems interesting.
 
-- Co-founder & CEO of **Arcademia** — hobby-based personalized learning powered by AI
+- Co-founder  of **Arcademia** — hobby-based personalized learning powered by AI
 - Building **Aria** — a personal AI agent and CLI tool
 - Arch Linux daily driver (Hyprland + Neovim)
 
