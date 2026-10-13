@@ -1,48 +1,32 @@
-<h1 align="center">Hey, I'm Shishir KC</h1
-<p align="center">Building things from scratch AI tools, startups, and CLI experiments</p>
 
-<p align="center">
-  <a href="https://shishirkhatri.com.np">Portfolio</a> •
-  <a href="https://blog.shishirkhatri.com.np/">Blog</a> •
-  <a href="https://www.linkedin.com/in/shishir-khatri-3bb3b1376/">LinkedIn</a>
-</p>
+```
+shishir@arcademia ------------------------------------------
+OS:            Linux (Hyprland)
+Host:          Arcademia, Kartabya
+Role:          Co-founder and CEO
+Location:      Biratnagar, Nepal
+Education:     B.Tech in AI, PUSAT
+Focus:         Backend Engineering, AI, Adaptive Learning
 
----
+Languages, Programming:   Python, SQL
+Languages, Real:          English, Nepali
+Hobbies, Software:        Building AI tools, Tokenizers, HUDs
+Hobbies, Hardware:        PC building, Tinkering
 
-### About me
+Contact ----------------------------------------------------
+Email:         chat@shishirkhatri.com.np
+GitHub:        Shishir-Kc
+Business:      shishir@arcademia.app
+Portfolio:     shishirkhatri.com.np
+Blog:          blog.shishirkhatri.com.np
 
-Self-taught developer from Nepal. I build ambitious things from scratch — AI agents, EdTech products, and whatever else seems interesting.
+GitHub Stats -----------------------------------------------
+```
 
-- Co-founder  of **Arcademia** — hobby-based personalized learning powered by AI
-- Building **Aria** — a personal AI agent and CLI tool
-- Arch Linux daily driver (Hyprland + Neovim)
+<div align="center">
 
----
+![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shishir-Kc&show_icons=true&theme=dark&hide_border=true)
 
-### Tech stack
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir-Kc&layout=compact&theme=dark&hide_border=true)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-</p>
-
----
-
-### Featured projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**Arcademia**](https://arcademia.app) | AI-powered EdTech — personalized learning through hobbies | Hono + Bun + FastAPI |
-| [**Aria**](https://github.com/Shishir-Kc/Aria) | Personal AI agent and CLI tool | Python |
-| [**Aris**](https://github.com/Shishir-Kc/Aris) | Prototype OS built on Arch Linux | Shell |
-| [**Vox Diurna**](https://vox-diurna.pages.dev/) | Daily news & writing platform | Web |
-| [**Django-Khalti Integration**](https://shishir-kc.github.io/django-khalti-integration/) | Payment integration docs for Django + Khalti | Python |
-
----
+</div>
