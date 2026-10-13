@@ -24,9 +24,9 @@ GitHub Stats -----------------------------------------------
 ```
 
 <div align="center">
-
-![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shishir-Kc&show_icons=true&theme=dark&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir-Kc&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Shishir-Kc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px"/>
+  <img src="https://streak-stats.demolab.com?user=Shishir-Kc&theme=tokyonight&hide_border=true" height="170px"/>
 
 </div>
+
+
