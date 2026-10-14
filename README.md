@@ -3,7 +3,6 @@
 shishir@arcademia ------------------------------------------
 OS:            Linux (Hyprland)
 Host:          Arcademia, Kartabya
-Role:          Co-founder and CEO
 Location:      Biratnagar, Nepal
 Education:     B.Tech in AI, PUSAT
 Focus:         Backend Engineering, AI, Adaptive Learning
