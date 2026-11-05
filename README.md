@@ -19,13 +19,6 @@ Business:      shishir@arcademia.app
 Portfolio:     shishirkhatri.com.np
 Blog:          blog.shishirkhatri.com.np
 Models:        helios.shishirkhatri.com.np
-GitHub Stats -----------------------------------------------
+
 ```
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shishir-Kc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px"/>
-  <img src="https://streak-stats.demolab.com?user=Shishir-Kc&theme=tokyonight&hide_border=true" height="170px"/>
-
-</div>
-
 
